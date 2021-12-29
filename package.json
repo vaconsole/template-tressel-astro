@@ -1,5 +1,5 @@
 {
-  "name": "@vaconsole/template-tressel-astro",
+  "name": "@vaconsole/template-tressel-astro-v2",
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/vaconsole/template-tressel-astro",
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaconsole/template-tressel-astro"
+    "url": "git+https://github.com/vaconsole/template-tressel-astro-v2"
   }
 }
