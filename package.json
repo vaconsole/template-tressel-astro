@@ -1,0 +1,27 @@
+{
+  "name": "@vaconsole/template-tressel-astro",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vaconsole/template-tressel-astro",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "astro": "^0.21.13"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7"
+  },
+  "publishConfig": {
+    "@vaconsole:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaconsole/template-tressel-astro"
+  }
+}
