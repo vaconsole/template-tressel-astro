@@ -14,4 +14,4 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
 	  tailwindConfig: './tailwind.config.js'
 	}
   });
-  
+
